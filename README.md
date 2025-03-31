@@ -1,17 +1,22 @@
 # Color Generator
 
 ## Motivation
+Inspired by the recent wave of AI-generated art, I became curious about how colors get their names. Why does a shade called *"Mountain Hideaway"* evoke a sandy hue, while *"Matrix"* is a vivid green? These names seem to carry a certain semantic weight — suggesting that there's more to explore in color naming.
 
-## Example
-We attempt to predict the colors associated with Red, Green, Blue, Python, and C. The results are shown below:
+This led me to wonder whether deep learning could be used to capture some of the semantic patterns behind these naming conventions. Could a model learn to associate words with colors in a meaningful way? Building on that, can we use this information to associate colors with various terms or concepts? For example, what are the color representations of different programming languages? What does Python “look” like in color? What about C?
 
-| ![](/images/red.png) | ![](/images/green.png) | ![](/images/blue.png) | ![](/images/python.png) | ![](/images/c++.png) |
-|:--------------------:|:--------------------:|:--------------------:|:--------------------:|:--------------------:|
+These questions sparked the motivation for this project.
 
 ## Model Architecture
 ![](/images/model.png)
 
 ## Development
+
+## Example
+We attempted to predict the colors associated with Red, Green, Blue, Python, and C. The results are shown below:
+
+| ![](/images/red.png) | ![](/images/green.png) | ![](/images/blue.png) | ![](/images/python.png) | ![](/images/c++.png) |
+|:--------------------:|:--------------------:|:--------------------:|:--------------------:|:--------------------:|
 
 ## How to Run the Project
 To install the required libraries:
