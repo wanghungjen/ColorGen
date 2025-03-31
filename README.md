@@ -25,3 +25,5 @@ python3 main.py
 Feel free to experiment with different text inputs to see how the model responds!
 
 ## References
+
+This project is based on [this tutorial](https://fritz.ai/how-to-train-a-keras-model-to-generate-colors/). Some parts of the original code were outdated or deprecated, so I updated them to work with the latest version.
