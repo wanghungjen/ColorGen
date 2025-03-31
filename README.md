@@ -1,4 +1,4 @@
-# ColorGen
+# Color Generator
 
 ## Motivation
 
