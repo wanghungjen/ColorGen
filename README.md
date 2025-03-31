@@ -3,9 +3,9 @@
 ## Motivation
 
 ## Example
-We attempt to predict the colors associated with Red, Blue, Green, PyTorch, and TensorFlow. The results are shown below:
+We attempt to predict the colors associated with Red, Green, Blue, Python, and C++. The results are shown below:
 
-| ![](/images/red.png) | ![](/images/blue.png) | ![](/images/green.png) | ![](/images/pytorch.png) | ![](/images/tensorflow.png) |
+| ![](/images/red.png) | ![](/images/green.png) | ![](/images/blue.png) | ![](/images/python.png) | ![](/images/c++.png) |
 |:--------------------:|:--------------------:|:--------------------:|:--------------------:|:--------------------:|
 
 ## Model Architecture
