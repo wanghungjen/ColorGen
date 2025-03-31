@@ -9,6 +9,7 @@ We attempt to predict the colors associated with Red, Blue, Green, PyTorch, and 
 |:--------------------:|:--------------------:|:--------------------:|:--------------------:|:--------------------:|
 
 ## Model Architecture
+![](/images/model.png)
 
 ## Development
 
